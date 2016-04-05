@@ -1,2 +1,2 @@
 # ParallelizeHeatmap
-Parallelize Heatmap Visualization uisng Spark
+Parallelize Heatmap Visualization using Spark
